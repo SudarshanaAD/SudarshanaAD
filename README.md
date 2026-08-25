@@ -31,4 +31,4 @@ Passionate about CFD simulations, aerospace, and motorsport. I leverage computat
 
 ### 🤝 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/sudarshan-a-d-84563122a/)
-* [Email](Mail to: sudarshanaad2112@gmail.com)
+* [Email](mailto:sudarshanaad2112@gmail.com)
