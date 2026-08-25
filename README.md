@@ -1,34 +1,16 @@
-# Hi there, I'm Sudarshana! 👋
+# German_language_logs
+This repository tracks my weekly progress in learning German from A1 level, including vocabulary logs, grammar notes, and reflections. It documents my journey toward A2/B1 proficiency with structured updates, chapter summaries, and personal learning goals.
+# German Language Progress – A1 to A2
 
-### 🚀 Mechanical Engineer | CAD Specialist | Aspiring Aerodynamics Analyst
+This repository tracks my weekly progress in learning German, starting from A1 level. It includes vocabulary logs, grammar notes, and reflections from each week.
 
-Passionate about CFD simulations, aerospace, and motorsport. I leverage computational fluid dynamics and scripting to solve complex fluid flow and thermal problems.
+## Structure
+- `weekly-logs/`: Weekly summaries of lessons completed, vocabulary learned, and reflections
+- `vocab-tracker/`: Themed vocabulary lists with articles and example sentences
+- `grammar-notes/`: Notes from each chapter of the Learn German A1 book
 
----
+## Goal
+Reach A2/B1 proficiency before starting my master's in Germany.
 
-### 🛠️ Tech Stack & Tools
-* **Programming & Automation:** Python, MATLAB, Bash
-* **CFD & CAE:** ANSYS Fluent, OpenFOAM
-* **CAD & Modeling:** Creo, SolidWorks, CATIA
-* **Version Control:** Git, GitHub
-
----
-
-### 🎯 Current Focus & Projects
-* **Aerodynamics:** Refining airfoil simulations, mesh dependency studies, and turbulence model validations.
-* **Fluid Dynamics:** Investigating velocity-pressure profiles for internal flows and moving lids.
-* **Validation:** Writing Python automation scripts to parse, extract, and plot CFD residual/convergence data.
-* **Language Learning:** Automatically tracking my daily progress in German! 🇩🇪
-
----
-
-### 📊 Language Learning Tracker
-<!--START_SECTION:duolingoStats-->
-*Loading live Duolingo stats...*
-<!--END_SECTION:duolingoStats-->
-
----
-
-### 🤝 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/sudarshan-a-d-84563122a/)
-* [Email](mailto:sudarshanaad2112@gmail.com)
+## Author
+Sudarshana – Mechanical Engineer | Aspiring Aerodynamic Analyst
