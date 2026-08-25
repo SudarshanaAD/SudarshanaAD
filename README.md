@@ -20,6 +20,13 @@ Passionate about CFD simulations, aerospace, and motorsport. I leverage computat
 
 ---
 
+### 📊 GitHub Activity
+
+![Sudarshana's GitHub Stats](https://vercel.app)
+![Sudarshana's Streak Stats](https://demolab.com)
+
+---
+
 ### 🤝 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sudarshan-a-d-84563122a/) 
 - ✉️ Email: sudarshanaad2112@gmail.com
