@@ -27,6 +27,9 @@ Here are some of my completed certifications that strengthen my technical founda
 
 * **Python Intro Certificate**  
   https://github.com/SudarshanaAD/CFD-Portfolio/blob/main/CFD_Python_Codes/Certificates/Sudarshana%20A%20D%20-%20Intro%20to%20Programming.png
+  ## 📜 Certificates
+![Python Intro Certificate](SudarshanaAD/CFD-Portfolio/blob/main/CFD_Python_Codes/Certificates/Sudarshana%20A%20D%20-%20Intro%20to%20Programming.png)
+
   
 *More certificates will be added as I continue my learning journey.*
 
