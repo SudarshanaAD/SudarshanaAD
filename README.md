@@ -31,6 +31,8 @@ Here are some of my completed certifications that strengthen my technical founda
 * **Python Certificate**  
   ![Python Certificate](https://github.com/SudarshanaAD/CFD-Portfolio/blob/main/CFD_Python_Codes/Certificates/Sudarshana%20A%20D%20-%20Python.png)
 
+* **Python Certificate**
+  ![Motor Sport Intro](https://github.com/SudarshanaAD/CFD-Portfolio/blob/main/CFD_Python_Codes/Certificates/Sudarshana%20A%20D%20-%202026-11-10.pdf)
 *More certificates will be added as I continue my learning journey.*
 
 ---
