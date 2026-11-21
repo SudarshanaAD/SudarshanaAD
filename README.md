@@ -9,7 +9,7 @@ Passionate about CFD simulations, aerospace, and motorsport. I leverage computat
 ### 🛠️ Tech Stack & Tools
 * **Programming & Automation:** Python, MATLAB, Bash
 * **CFD & CAE:** ANSYS Fluent, OpenFOAM, SolidWorks Flow Simulation
-* **CAD & Modeling:** SolidWorks, CATIA, Autodesk Inventor
+* **CAD & Modeling:** SolidWorks, CATIA, Creo Parametric
 * **Version Control:** Git, GitHub
 
 ---
